@@ -1,7 +1,7 @@
 Class User.Address Extends (%SerialObject, %XML.Adaptor)
 {
 
-// street 2
+// street 3
 
 Property Street As %String;
 

@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "local:FHIR (read-only)",
+			"uri": "isfs-readonly://local:fhir/"
+		},
+		{
+			"name": "local:HSLIB (read-only)",
+			"uri": "isfs-readonly://local:hslib/"
+		},
+		{
+			"name": "aws:FHIRSERVER",
+			"uri": "isfs://aws:fhirserver/"
+		},
+		{
+			"name": "local:USER",
+			"uri": "isfs://local:user/"
+		},
+		{
+			"name": "cds",
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "InterSystems Default Dark Modern"
+	}
+}

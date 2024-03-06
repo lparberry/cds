@@ -9,7 +9,11 @@ Property Street As %String;
 
 Property City As %String;
 
+// state
+
 Property State As %String;
+
+// zip
 
 Property Zip As %String;
 

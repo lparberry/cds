@@ -5,9 +5,15 @@ Class User.Address Extends (%SerialObject, %XML.Adaptor)
 
 Property Street As %String;
 
+// city
+
 Property City As %String;
 
+// state
+
 Property State As %String;
+
+// zip
 
 Property Zip As %String;
 
